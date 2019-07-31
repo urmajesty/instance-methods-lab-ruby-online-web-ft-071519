@@ -1,6 +1,4 @@
-class Dog
-  Dog.new
-end
+d
 
 class Dog
   def bark
